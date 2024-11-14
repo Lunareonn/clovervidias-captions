@@ -10,7 +10,9 @@ If you're looking for the change log, you'll find it [right here](../../wiki/Ver
 <br>
 ### Note from Luna
 
-This fork contains my own version of the Closed Captions.<br>
+This fork only contains the files for my own versions of the closed captions.<br>
 Much hasn't been changed, I only changed some of the captions for medic and the class colors.
 
 I also fixed some captions cutting off due to some weirdness with the ``<B>`` tag
+
+``clovervidia_medic`` contains added captions for classes yelling ``MEDIC!``
