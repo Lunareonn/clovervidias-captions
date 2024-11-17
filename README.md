@@ -15,4 +15,5 @@ Much hasn't been changed, I only changed some of the captions for medic and the 
 
 I also fixed some captions cutting off due to some weirdness with the ``<B>`` tag
 
-``clovervidia_medic`` contains added captions for classes yelling ``MEDIC!``
+``clovervidia_medic`` contains added captions for classes yelling ``MEDIC!`` and has no ``{class} HURT!`` captions<br>
+``clovervidia_min`` contains what I consider to be the most bare minimum useful information
